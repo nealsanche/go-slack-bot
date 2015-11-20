@@ -1,5 +1,5 @@
 # go-slack-bot
-A super simple go slack bot
+My first Beep Boop Experiment
 
 Buiding the bot outside of docker requires [gb](https://getgb.io):
 
